@@ -6,4 +6,6 @@ Since 2020, I've living and breathing in the tech ecosystem- I've had the chance
 
 I'm always trying to grow and learn something new. I also enjoy watching movies and playing with my pets 🐱🐶.
 
-### Find me elsewhere
+### Find me elsewhere 🌎
+
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logocolor=white&link=https://github.com/JulioCMR)()
