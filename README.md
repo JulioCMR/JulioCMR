@@ -8,4 +8,4 @@ I'm always trying to grow and learn something new. I also enjoy watching movies 
 
 ### Find me elsewhere 🌎
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logocolor=white)(https://www.linkedin.com/in/juliomorales94/)]
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logocolor=white)](https://www.linkedin.com/in/juliomorales94/)
