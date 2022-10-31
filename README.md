@@ -8,4 +8,4 @@ I'm always trying to grow and learn something new. I also enjoy watching movies 
 
 ### Find me elsewhere 🌎
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logocolor=white)](https://www.linkedin.com/in/juliomorales94/)       [![Youtube Badge](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logocolor=white)](https://www.youtube.com/channel/UCZe5oLjMXjyUKs4Ha11ApUg)          [![Blog Badge](https://img.shields.io/badge/Blog-lightgrey?style=for-the-badge&logo=data:img/terminalfavicon.png;png;base64)](https://pentmx.wordpress.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logocolor=white)](https://www.linkedin.com/in/juliomorales94/)       [![Youtube Badge](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logocolor=white)](https://www.youtube.com/channel/UCZe5oLjMXjyUKs4Ha11ApUg)          [![Blog Badge](https://img.shields.io/badge/Personal%20Blog-lightgrey?style=for-the-badge&logo=data:img/terminalfavicon.png;png;base64)](https://pentmx.wordpress.com/)
