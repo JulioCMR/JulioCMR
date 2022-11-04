@@ -1,6 +1,6 @@
 ## Hi! I'm Julio Morales 🤖
 
-I use programming to help me in my professional career, and I'm an asparing backend developver.
+I use programming to help me in my professional career, and I'm an asparing backend developer.
 
 Since 2020, I've living and breathing in the tech ecosystem. I've had the chance to inmerse myself in many different works and projects, helping to make this world a little better through tech solutions and code.
 
